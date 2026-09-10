@@ -40,5 +40,4 @@ The app is designed for children and does not knowingly collect personal informa
 
 ## Contact
 
-Noah Morrison, noahjmorrison@gmail.com
-
+Noah Morrison, simpleappsfromthenorth@gmail.com
