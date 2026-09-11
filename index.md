@@ -1,6 +1,6 @@
 # Unicorn Scratch Art Privacy Policy
 
-_Last updated: 10 September 2026_
+_Last updated: 11 September 2026_
 
 Unicorn Scratch Art is a scratch-and-reveal art game made for children. This policy explains what the app does and does not do with information.
 
@@ -25,6 +25,8 @@ My Photos lets you choose a folder on the device. The app only reads image files
 ## Advertising
 
 The app shows advertising through Google AdMob. Ad requests are tagged as child-directed and under the age of consent, and are limited to the G (general audiences) content rating, so Google does not use personalised advertising for this app. Google's handling of ad requests is described in the Google Privacy Policy at https://policies.google.com/privacy and the AdMob policies for families at https://support.google.com/admob/answer/6223431 .
+
+To show ads, Google's ad software sends Google the device's IP address (which gives an approximate location), information about how the app and its ads are used, diagnostic information, and an app-specific device identifier. The app does not use the Android advertising ID.
 
 ## Purchases
 
