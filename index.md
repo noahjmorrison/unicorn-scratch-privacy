@@ -38,7 +38,7 @@ Internet access is used only to fetch advertisements and to check whether the Re
 
 ## Children's privacy
 
-The app is designed for children and does not knowingly collect personal information from anyone. If you believe information has been collected in error, contact the developer at the address below and it will be removed.
+The app is designed for children and does not knowingly collect personal information from anyone. Everything the app itself saves stays on the device and is removed when the app is uninstalled. Data sent to Google to show ads is handled under the Google Privacy Policy. If you have questions about your child's information, contact the developer at the address below.
 
 ## Contact
 
